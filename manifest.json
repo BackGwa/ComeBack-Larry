@@ -17,5 +17,11 @@
         "default_title" : "돌아와, 래리!!",
         "default_popup" : "pages/index.html"
     },
-    "permissions" : ["storage"]
+    "permissions" : ["storage"],
+
+    "browser_specific_settings": {
+        "gecko": {
+          "id": "backgwa@naver.com"
+        }
+      }
 }
