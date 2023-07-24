@@ -1,0 +1,21 @@
+{
+    "manifest_version" : 3,
+    "name" : "X-Twitter",
+    "description" : "새롭게 변경된 트위터의 X 로고를 원래대로 변경합니다.",
+    "version" : "1.0.0",
+    "content_scripts" : [
+        {
+            "matches" : ["https://twitter.com/*"],
+            "js" : ["scripts/change.js"]
+        }
+    ],
+    "icons" : {
+        "128" : "images/X-Twitter.png"
+    },
+    "action" : {
+        "default_icon" : "images/X-Twitter.png",
+        "default_title" : "X-Twitter",
+        "default_popup" : "pages/index.html"
+    },
+    "permissions" : ["storage"]
+}
