@@ -2,12 +2,12 @@
 
 <img src="./images/X-Twitter.png" width="64px">
 
-# **X-Twitter**
-새롭게 바뀐 트위터의 X 로고를 원래대로 변경합니다!
+# **ComeBack, Larry!!**
+새롭게 바뀐 트위터의 X 로고를 원래대로 변경해요!
 
 </div>
 
-> 현재는 아직까지 Chrome 브라우저만 지원됩니다!
+> 아직까진 Chrome 브라우저만 지원해요!
 
 ---
 
