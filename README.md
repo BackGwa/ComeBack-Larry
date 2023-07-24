@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/X-Twitter.png" width="64px">
+<img src="./images/Larry.png" width="64px">
 
 # **ComeBack, Larry!!**
 새롭게 바뀐 트위터의 X 로고를 원래대로 변경해요!
