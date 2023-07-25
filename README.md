@@ -24,6 +24,8 @@
 ### 파이어폭스에서 적용 방법
 1. [돌아와, 래리!!](https://addons.mozilla.org/ko/firefox/addon/%EB%8F%8C%EC%95%84%EC%99%80-%EB%9E%98%EB%A6%AC/) 확장 기능을 설치합니다.
 
+> **주의 사항** : FireFox 브라우저의 경우 `부가 기능 관리자`에서 `https://twitter.com에 대한 사용자 데이터에 접근`을 활성화해야 정상 작동합니다!
+
 ---
 
 ### 웨일에서 적용 방법
