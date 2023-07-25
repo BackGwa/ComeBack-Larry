@@ -2,7 +2,7 @@
     "manifest_version" : 3,
     "name" : "돌아와, 래리!!",
     "description" : "새롭게 변경된 트위터의 X 로고를 원래대로 변경합니다.",
-    "version" : "1.0.0",
+    "version" : "1.1.0",
     "content_scripts" : [
         {
             "matches" : ["https://twitter.com/*"],
