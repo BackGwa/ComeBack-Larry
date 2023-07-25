@@ -31,8 +31,6 @@
 ### 웨일에서 적용 방법
 1. [돌아와, 래리!!](https://store.whale.naver.com/detail/oncfjblpelnakefbjcbafojekmfdlefa/) 확장 기능을 설치합니다.
 
-> 현재는 아직 심사 단계입니다.
-
 ---
 
 ### 공통 적용사항
